@@ -1,0 +1,1555 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "57d955f97b1a86f2103f2f71",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.693099,
+          45.517577
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f2f71",
+        "stop_id": "1114",
+        "stop_code": "1114",
+        "stop_name": "SW 18th & Goose Hollow MAX Station",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 1114)",
+        "stop_lat": 45.517577,
+        "stop_lon": -122.693099,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/1114",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "At",
+        "agency_key": "trimet",
+        "loc": [
+          -122.693099,
+          45.517577
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f45ad",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.690692,
+          45.516919
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f45ad",
+        "stop_id": "12792",
+        "stop_code": "12792",
+        "stop_name": "SW Columbia & 16th",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 12792)",
+        "stop_lat": 45.516919,
+        "stop_lon": -122.690692,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/12792",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Opposite",
+        "agency_key": "trimet",
+        "loc": [
+          -122.690692,
+          45.516919
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f2f70",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686848,
+          45.515871
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f2f70",
+        "stop_id": "1111",
+        "stop_code": "1111",
+        "stop_name": "SW Columbia & 12th",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 1111)",
+        "stop_lat": 45.515871,
+        "stop_lon": -122.686848,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/1111",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.686848,
+          45.515871
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f413c",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684818,
+          45.515322
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f413c",
+        "stop_id": "9044",
+        "stop_code": "9044",
+        "stop_name": "SW Columbia & 10th",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 9044)",
+        "stop_lat": 45.515322,
+        "stop_lon": -122.684818,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/9044",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.684818,
+          45.515322
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f2f6f",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683248,
+          45.514919
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f2f6f",
+        "stop_id": "1108",
+        "stop_code": "1108",
+        "stop_name": "SW Columbia & Park Ave",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 1108)",
+        "stop_lat": 45.514919,
+        "stop_lon": -122.683248,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/1108",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.683248,
+          45.514919
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f45ae",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.680655,
+          45.51421
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f45ae",
+        "stop_id": "12793",
+        "stop_code": "12793",
+        "stop_name": "SW Columbia between 6th & 5th",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 12793)",
+        "stop_lat": 45.51421,
+        "stop_lon": -122.680655,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/12793",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.680655,
+          45.51421
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3564",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.675839,
+          45.514455
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3564",
+        "stop_id": "3635",
+        "stop_code": "3635",
+        "stop_name": "SW Madison & 1st",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 3635)",
+        "stop_lat": 45.514455,
+        "stop_lon": -122.675839,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/3635",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.675839,
+          45.514455
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3375",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665112,
+          45.512153
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3375",
+        "stop_id": "2641",
+        "stop_code": "2641",
+        "stop_name": "Hawthorne Bridge",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 2641)",
+        "stop_lat": 45.512153,
+        "stop_lon": -122.665112,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2641",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "At",
+        "agency_key": "trimet",
+        "loc": [
+          -122.665112,
+          45.512153
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3231",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660658,
+          45.51341
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3231",
+        "stop_id": "2170",
+        "stop_code": "2170",
+        "stop_name": "SE Grand & Main",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2170)",
+        "stop_lat": 45.51341,
+        "stop_lon": -122.660658,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2170",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660658,
+          45.51341
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4505",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660668,
+          45.514994
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4505",
+        "stop_id": "11483",
+        "stop_code": "11483",
+        "stop_name": "SE Grand & Taylor",
+        "stop_desc": "Northbound stop in Portland (Stop ID 11483)",
+        "stop_lat": 45.514994,
+        "stop_lon": -122.660668,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/11483",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660668,
+          45.514994
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4506",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660629,
+          45.516858
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4506",
+        "stop_id": "11484",
+        "stop_code": "11484",
+        "stop_name": "SE Grand & Belmont",
+        "stop_desc": "Northbound stop in Portland (Stop ID 11484)",
+        "stop_lat": 45.516858,
+        "stop_lon": -122.660629,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/11484",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660629,
+          45.516858
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f470c",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660644,
+          45.519626
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f470c",
+        "stop_id": "13597",
+        "stop_code": "13597",
+        "stop_name": "SE Grand & Stark",
+        "stop_desc": "Northbound stop in Portland (Stop ID 13597)",
+        "stop_lat": 45.519626,
+        "stop_lon": -122.660644,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13597",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660644,
+          45.519626
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f322f",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660621,
+          45.52281
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f322f",
+        "stop_id": "2167",
+        "stop_code": "2167",
+        "stop_name": "SE Grand & E Burnside",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2167)",
+        "stop_lat": 45.52281,
+        "stop_lon": -122.660621,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2167",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660621,
+          45.52281
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3230",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660593,
+          45.527516
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3230",
+        "stop_id": "2169",
+        "stop_code": "2169",
+        "stop_name": "NE Grand & Hoyt",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2169)",
+        "stop_lat": 45.527516,
+        "stop_lon": -122.660593,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2169",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Opposite",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660593,
+          45.527516
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3233",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660582,
+          45.529728
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3233",
+        "stop_id": "2175",
+        "stop_code": "2175",
+        "stop_name": "NE Grand & Holladay",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2175)",
+        "stop_lat": 45.529728,
+        "stop_lon": -122.660582,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2175",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660582,
+          45.529728
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f44d1",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660549,
+          45.532011
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f44d1",
+        "stop_id": "10953",
+        "stop_code": "10953",
+        "stop_name": "NE Grand & Wasco",
+        "stop_desc": "Northbound stop in Portland (Stop ID 10953)",
+        "stop_lat": 45.532011,
+        "stop_lon": -122.660549,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/10953",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660549,
+          45.532011
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3234",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660541,
+          45.534226
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3234",
+        "stop_id": "2178",
+        "stop_code": "2178",
+        "stop_name": "NE Grand & Weidler",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2178)",
+        "stop_lat": 45.534226,
+        "stop_lon": -122.660541,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2178",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660541,
+          45.534226
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f322e",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.660533,
+          45.535414
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f322e",
+        "stop_id": "2165",
+        "stop_code": "2165",
+        "stop_name": "NE Grand & Broadway",
+        "stop_desc": "Northbound stop in Portland (Stop ID 2165)",
+        "stop_lat": 45.535414,
+        "stop_lon": -122.660533,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/2165",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.660533,
+          45.535414
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a5b",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661514,
+          45.537752
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a5b",
+        "stop_id": "5956",
+        "stop_code": "5956",
+        "stop_name": "NE M L King & Tillamook",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5956)",
+        "stop_lat": 45.537752,
+        "stop_lon": -122.661514,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5956",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661514,
+          45.537752
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a34",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661492,
+          45.540257
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a34",
+        "stop_id": "5896",
+        "stop_code": "5896",
+        "stop_name": "NE M L King & Brazee",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5896)",
+        "stop_lat": 45.540257,
+        "stop_lon": -122.661492,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5896",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661492,
+          45.540257
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a4b",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661479,
+          45.542015
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a4b",
+        "stop_id": "5930",
+        "stop_code": "5930",
+        "stop_name": "NE M L King & Knott",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5930)",
+        "stop_lat": 45.542015,
+        "stop_lon": -122.661479,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5930",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661479,
+          45.542015
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a53",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661496,
+          45.544908
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a53",
+        "stop_id": "5939",
+        "stop_code": "5939",
+        "stop_name": "NE M L King & Morris",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5939)",
+        "stop_lat": 45.544908,
+        "stop_lon": -122.661496,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5939",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661496,
+          45.544908
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a3e",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661491,
+          45.54626
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a3e",
+        "stop_id": "5909",
+        "stop_code": "5909",
+        "stop_name": "NE M L King & Fargo",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5909)",
+        "stop_lat": 45.54626,
+        "stop_lon": -122.661491,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5909",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661491,
+          45.54626
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a3f",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661451,
+          45.548162
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a3f",
+        "stop_id": "5910",
+        "stop_code": "5910",
+        "stop_name": "NE M L King & Fremont",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5910)",
+        "stop_lat": 45.548162,
+        "stop_lon": -122.661451,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5910",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661451,
+          45.548162
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a33",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661461,
+          45.549407
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a33",
+        "stop_id": "5894",
+        "stop_code": "5894",
+        "stop_name": "NE M L King & Beech",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5894)",
+        "stop_lat": 45.549407,
+        "stop_lon": -122.661461,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5894",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661461,
+          45.549407
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a3b",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661461,
+          45.55101
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a3b",
+        "stop_id": "5906",
+        "stop_code": "5906",
+        "stop_name": "NE M L King & Failing",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5906)",
+        "stop_lat": 45.55101,
+        "stop_lon": -122.661461,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5906",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661461,
+          45.55101
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a50",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661421,
+          45.553121
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a50",
+        "stop_id": "5935",
+        "stop_code": "5935",
+        "stop_name": "NE M L King & Mason",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5935)",
+        "stop_lat": 45.553121,
+        "stop_lon": -122.661421,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5935",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661421,
+          45.553121
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a56",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661402,
+          45.555384
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a56",
+        "stop_id": "5946",
+        "stop_code": "5946",
+        "stop_name": "NE M L King & Prescott",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5946)",
+        "stop_lat": 45.555384,
+        "stop_lon": -122.661402,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5946",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661402,
+          45.555384
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a5f",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661408,
+          45.557222
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a5f",
+        "stop_id": "5962",
+        "stop_code": "5962",
+        "stop_name": "NE M L King & Wygant",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5962)",
+        "stop_lat": 45.557222,
+        "stop_lon": -122.661408,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5962",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661408,
+          45.557222
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a30",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661359,
+          45.559575
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a30",
+        "stop_id": "5890",
+        "stop_code": "5890",
+        "stop_name": "NE M L King & Alberta",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5890)",
+        "stop_lat": 45.559575,
+        "stop_lon": -122.661359,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5890",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661359,
+          45.559575
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a4a",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661311,
+          45.562637
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a4a",
+        "stop_id": "5929",
+        "stop_code": "5929",
+        "stop_name": "NE M L King & Killingsworth",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5929)",
+        "stop_lat": 45.562637,
+        "stop_lon": -122.661311,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5929",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661311,
+          45.562637
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a48",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66129,
+          45.564654
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a48",
+        "stop_id": "5924",
+        "stop_code": "5924",
+        "stop_name": "NE M L King & Jarrett",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5924)",
+        "stop_lat": 45.564654,
+        "stop_lon": -122.66129,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5924",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.66129,
+          45.564654
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a2d",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661285,
+          45.566255
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a2d",
+        "stop_id": "5886",
+        "stop_code": "5886",
+        "stop_name": "NE M L King & Ainsworth",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5886)",
+        "stop_lat": 45.566255,
+        "stop_lon": -122.661285,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5886",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661285,
+          45.566255
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a46",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661228,
+          45.568471
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a46",
+        "stop_id": "5920",
+        "stop_code": "5920",
+        "stop_name": "M L King & Holman",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5920)",
+        "stop_lat": 45.568471,
+        "stop_lon": -122.661228,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5920",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661228,
+          45.568471
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a55",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66125,
+          45.56988
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a55",
+        "stop_id": "5944",
+        "stop_code": "5944",
+        "stop_name": "NE M L King & Rosa Parks Way",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5944)",
+        "stop_lat": 45.56988,
+        "stop_lon": -122.66125,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5944",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.66125,
+          45.56988
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a39",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661247,
+          45.571626
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a39",
+        "stop_id": "5903",
+        "stop_code": "5903",
+        "stop_name": "NE M L King & Dekum",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5903)",
+        "stop_lat": 45.571626,
+        "stop_lon": -122.661247,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5903",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661247,
+          45.571626
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a36",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661245,
+          45.572968
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a36",
+        "stop_id": "5899",
+        "stop_code": "5899",
+        "stop_name": "NE M L King & Bryant",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5899)",
+        "stop_lat": 45.572968,
+        "stop_lon": -122.661245,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5899",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661245,
+          45.572968
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a51",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661247,
+          45.574327
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a51",
+        "stop_id": "5937",
+        "stop_code": "5937",
+        "stop_name": "NE M L King & Morgan",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5937)",
+        "stop_lat": 45.574327,
+        "stop_lon": -122.661247,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5937",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661247,
+          45.574327
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a44",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661238,
+          45.575612
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a44",
+        "stop_id": "5918",
+        "stop_code": "5918",
+        "stop_name": "NE M L King & Holland",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5918)",
+        "stop_lat": 45.575612,
+        "stop_lon": -122.661238,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5918",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661238,
+          45.575612
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f3a4d",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661218,
+          45.577009
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f3a4d",
+        "stop_id": "5932",
+        "stop_code": "5932",
+        "stop_name": "NE M L King & Lombard St",
+        "stop_desc": "Northbound stop in Portland (Stop ID 5932)",
+        "stop_lat": 45.577009,
+        "stop_lon": -122.661218,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/5932",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661218,
+          45.577009
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4644",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661163,
+          45.580953
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4644",
+        "stop_id": "13150",
+        "stop_code": "13150",
+        "stop_name": "NE M L King & Columbia Blvd",
+        "stop_desc": "Northbound stop in Portland (Stop ID 13150)",
+        "stop_lat": 45.580953,
+        "stop_lon": -122.661163,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13150",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.661163,
+          45.580953
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f46d5",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.664957,
+          45.590744
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f46d5",
+        "stop_id": "13497",
+        "stop_code": "13497",
+        "stop_name": "50 Block NE Gertz Rd",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 13497)",
+        "stop_lat": 45.590744,
+        "stop_lon": -122.664957,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13497",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Opposite",
+        "agency_key": "trimet",
+        "loc": [
+          -122.664957,
+          45.590744
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f464c",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.663626,
+          45.590297
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f464c",
+        "stop_id": "13161",
+        "stop_code": "13161",
+        "stop_name": "200 Block NE Gertz Rd",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 13161)",
+        "stop_lat": 45.590297,
+        "stop_lon": -122.663626,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13161",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "At",
+        "agency_key": "trimet",
+        "loc": [
+          -122.663626,
+          45.590297
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f464d",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.662322,
+          45.590146
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f464d",
+        "stop_id": "13162",
+        "stop_code": "13162",
+        "stop_name": "NE Gertz Rd & Vancouver Way",
+        "stop_desc": "Eastbound stop in Portland (Stop ID 13162)",
+        "stop_lat": 45.590146,
+        "stop_lon": -122.662322,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13162",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "East",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.662322,
+          45.590146
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f420c",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.663581,
+          45.59234
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f420c",
+        "stop_id": "9438",
+        "stop_code": "9438",
+        "stop_name": "NE Vancouver Way & Freightliner",
+        "stop_desc": "Northbound stop in Portland (Stop ID 9438)",
+        "stop_lat": 45.59234,
+        "stop_lon": -122.663581,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/9438",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.663581,
+          45.59234
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f442b",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665656,
+          45.593873
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f442b",
+        "stop_id": "10591",
+        "stop_code": "10591",
+        "stop_name": "N Vancouver Way & NE Walker St",
+        "stop_desc": "Northbound stop in Portland (Stop ID 10591)",
+        "stop_lat": 45.593873,
+        "stop_lon": -122.665656,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/10591",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.665656,
+          45.593873
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4730",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.667867,
+          45.595484
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4730",
+        "stop_id": "13648",
+        "stop_code": "13648",
+        "stop_name": "N Vancouver Way & NE Middlefield",
+        "stop_desc": "Northbound stop in Portland (Stop ID 13648)",
+        "stop_lat": 45.595484,
+        "stop_lon": -122.667867,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13648",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Nearside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.667867,
+          45.595484
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4727",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.670038,
+          45.597097
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4727",
+        "stop_id": "13635",
+        "stop_code": "13635",
+        "stop_name": "N Vancouver Way & Jubitz",
+        "stop_desc": "Northbound stop in Portland (Stop ID 13635)",
+        "stop_lat": 45.597097,
+        "stop_lon": -122.670038,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13635",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Opposite",
+        "agency_key": "trimet",
+        "loc": [
+          -122.670038,
+          45.597097
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f4722",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.677115,
+          45.611596
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f4722",
+        "stop_id": "13629",
+        "stop_code": "13629",
+        "stop_name": "N Hayden Island Dr & Tomahawk Island Dr",
+        "stop_desc": "Northbound stop in Portland (Stop ID 13629)",
+        "stop_lat": 45.611596,
+        "stop_lon": -122.677115,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/13629",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "North",
+        "position": "Farside",
+        "agency_key": "trimet",
+        "loc": [
+          -122.677115,
+          45.611596
+        ]
+      }
+    },
+    {
+      "id": "57d955f97b1a86f2103f2f57",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.681241,
+          45.611047
+        ]
+      },
+      "properties": {
+        "_id": "57d955f97b1a86f2103f2f57",
+        "stop_id": "1026",
+        "stop_code": "1026",
+        "stop_name": "Jantzen Beach Main Stop",
+        "stop_desc": "Southbound stop in Portland (Stop ID 1026)",
+        "stop_lat": 45.611047,
+        "stop_lon": -122.681241,
+        "zone_id": "B",
+        "stop_url": "http://trimet.org/#tracker/stop/1026",
+        "location_type": 0,
+        "parent_station": "",
+        "direction": "South",
+        "position": "Opposite",
+        "agency_key": "trimet",
+        "loc": [
+          -122.681241,
+          45.611047
+        ]
+      }
+    }
+  ]
+}
